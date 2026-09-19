@@ -1,6 +1,31 @@
-# CSIT751 - Core Java
+# CSIT751 – Core Java
 
-Practical solutions for the supplied Module I and Module II assignment PDFs.
+## Student Details
 
-- Module-1: 10 separate Java files (one per question)
-- Module-2: 15 separate Java files (one per question)
+**Name:** Aditya  
+**Roll Number:** A101202626025  
+**Program:** MCA (Generative AI)  
+
+## Practical Assignments
+
+This repository contains the solutions for the CSIT751 (Core Java) practical assignments.
+
+### Module I
+10 programming questions, with each question maintained as a separate Java file.
+
+### Module II
+15 programming questions, with each question maintained as a separate Java file.
+
+## Repository Structure
+
+```text
+CSIT751-Core-Java/
+├── Module-1/
+│   ├── Q01...
+│   ├── Q02...
+│   └── ...
+├── Module-2/
+│   ├── Q01...
+│   ├── Q02...
+│   └── ...
+└── README.md
