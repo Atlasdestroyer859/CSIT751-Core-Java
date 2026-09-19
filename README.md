@@ -3,7 +3,7 @@
 ## Student Details
 
 **Name:** Aditya Pathak
-**Roll Number:** A101202626025  
+**Roll Number:** A010202626025  
 **Program:** MCA (Generative AI)  
 
 ## Practical Assignments
