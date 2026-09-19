@@ -6,14 +6,14 @@
 **Roll Number:** A010202626025  
 **Program:** MCA (Generative AI)  
 
-## Practical Assignments
+## Practical Assignments(
 
 This repository contains the solutions for the CSIT751 (Core Java) practical assignments.
 
-### Module I
+### Module I (Practical Assignment 1)
 10 programming questions, with each question maintained as a separate Java file.
 
-### Module II
+### Module II (Practical Assignment 2)
 15 programming questions, with each question maintained as a separate Java file.
 
 ## Repository Structure
