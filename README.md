@@ -28,4 +28,15 @@ CSIT751-Core-Java/
 │   ├── Q01...
 │   ├── Q02...
 │   └── ...
+├── Module3/
+│   ├── StudentAgeValidation.java
+│   ├── TicketBooking.java
+│   ├── OnlineShopping.java
+│   └── ... (7 more files)
+│
+└── Module4/
+    ├── LibraryManagement.java
+    ├── CalculatorForm.java
+    ├── InventoryManagement.java
+    └── ... (4 more files)
 └── README.md
